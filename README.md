@@ -2,5 +2,5 @@
 
 Languages:
 
-<a  target="_blank"><img src="https://img.shields.io/badge/6DB33F?style=for-the-badge&logo=Spring&logoColor=6DB33F"/></a>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
